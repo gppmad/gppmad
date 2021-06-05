@@ -7,3 +7,6 @@ I'm a software architect passionate about building digital products. I'm a fight
 - 💬  &nbsp; You can reach me on Twitter [gppmad](https://twitter.com/gppmad) 
 
 - 🧰 &nbsp; Django, Gatsby and React are my favourites frameworks. 
+
+
+https://www.codewars.com/users/gppmad/badges/large
