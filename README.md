@@ -6,6 +6,6 @@ I'm a software engineer passionate about building digital products. I'm a fighte
 
 - 💬  &nbsp; You can reach me on Twitter [gppmad](https://twitter.com/gppmad) 
 
-- 🧰 &nbsp; Django, Gatsby and Vue/React are my favourites frameworks. 
+- 🧰 &nbsp; Building Stuff with Python/Java and Vue.js/React 
 
 
