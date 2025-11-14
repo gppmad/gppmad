@@ -1,10 +1,11 @@
-### Hi Guys ! 
+### Hi Guys! 
 
-I'm a software engineer passionate about building digital products. I'm a fighter against climate change and I love to build technology that helps our planet.
+I'm a software engineer passionate about building digital products. 
+I'm interested in cybersecurity and technology that helps people to improve their privacy. 
 
-- 🌱  &nbsp; Building Stuff with Python/Golang. Sometimes playing around with frontend tools.
-
-- 💬  &nbsp; You can reach me on Linkedin [Giuseppe Maddiona](https://www.linkedin.com/in/giuseppe-maddiona/)
+- I like building stuff with Python/Golang.
+- I don't mind fiddling with TS/JS.
+- You can find me on bsky [Giuseppe Maddiona](https://bsky.app/profile/gppmad.bsky.social)
 
 
 
