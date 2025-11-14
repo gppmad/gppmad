@@ -1,6 +1,6 @@
 ### Hi Guys! 
 
-I'm a software engineer passionate about building digital products. 
+I'm a software engineer passionate about building digital products.  
 I'm interested in cybersecurity and technology that helps people to improve their privacy. 
 
 - I like building stuff with Python/Golang.
